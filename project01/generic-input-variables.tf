@@ -3,7 +3,7 @@
 variable "business_division" {
   description = "Business Division in the large organization infrastructure belongs to"
   type        = string
-  default     = "xorg-consulting"
+  default     = "analytics"
 }
 
 # Environment Variable
